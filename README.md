@@ -1,5 +1,5 @@
 # House-Price-Prediction
-* Created a tool that estimates  Housing Prices (MSE ~ $ 19K) to identified the best price that a client can sell their house.
+* Created a tool that estimates  Housing Prices (RMSE ~ $ 19K) to identified the best price that a client can sell their house.
 * Getting data in better shape by transforming and feature engineering to help us in building better models
 * Optimized LassoCV, RidgeCV, SVR, and Random Forest Regressors using GridsearchCV to reach the best model.
 
